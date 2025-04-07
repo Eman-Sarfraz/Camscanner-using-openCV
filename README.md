@@ -52,3 +52,5 @@ Applies adaptive thresholding for a clean "scanned" look
 Visualization:
 
 Combines all stages (original, grayscale, edges, warped, thresholded) into one window using stackImages
+
+## note : Create a virtual env to ake it work.
